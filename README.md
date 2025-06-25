@@ -8,4 +8,4 @@ Selection of scripts used for acquiring data
 
 #
 
-Main contributors of this repository are: Alessandra Escurra, Fritz Francisco and David Bierbach
+Main contributor of this repository is: Fritz A. Francisco
